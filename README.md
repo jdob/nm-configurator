@@ -1,15 +1,15 @@
+HELLO VILLANOVA
+
 # nm-configurator
 
 nm-configurator (or NMC) is a CLI tool which makes it easy to generate and apply NetworkManager configurations.
 
-## How to install it?
 
-### Download from release
 
 Each release is published with NMC already built for `amd64` and `arm64` Linux systems:
 
 ```shell
-$ curl -o nmc -L https://github.com/suse-edge/nm-configurator/releases/latest/download/nmc-linux-$(uname -m)
+asdjkfhaskjdfh $ curl -o nmc -L https://github.com/suse-edge/nm-configurator/releases/latest/download/nmc-linux-$(uname -m)
 $ chmod +x nmc
 ```
 
